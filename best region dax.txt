@@ -1,0 +1,33 @@
+Best Region = 
+
+var nw = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Northwest")
+var ne = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Northeast")
+var sw = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Southwest")
+var se = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Southeast")
+var ce = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Central")
+var au = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Australia")
+var fr = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="France")
+var ge = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Germany")
+var uk = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="United Kingdom")
+var ca = calculate(SUM(FactInternetSales[SalesAmount]),DimSalesTerritory[SalesTerritoryRegion]="Canada")
+
+var maxval = max(max(max(max(nw,ne),max(sw,se)),max(max(ce,au),max(fr,ge))),max(uk,ca))
+
+return
+if(maxval=sw,"southwest",
+if(maxval=se,"southeast",
+if(maxval=ne,"northeast",
+if(maxval=nw,"northwest",
+if(maxval=ce,"central",
+if(maxval=au,"australia",
+if(maxval=fr,"france",
+if(maxval=ge,"germany",
+if(maxval=ca,"canada",
+if(maxval=uk,"united kingdom",
+blank()))))))))))
+
+
+
+
+
+
