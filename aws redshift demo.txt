@@ -1,0 +1,4 @@
+default-workgroup.597088023352.us-east-1.redshift-serverless.amazonaws.com:5439
+dev
+user1
+P@$$w0rd
