@@ -1,0 +1,678 @@
+﻿Age Group 1,Answer Code,Brand Disposition,Gender,Header,Npd Product Code,NPD Product Code2,Project Code,Project Name,Respondent Number,Response - NET,Response Code,Response Value,Sample Type,SEC Group 1,Submission ID,Variable Name,Weights Random,Weights Random with Booster
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,,2,Preferrer,Random,D,396980089,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,5,,3,Acceptor,Random,D,396980169,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,21,,3,Acceptor,Random,D,397317397,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,,2,Preferrer,Random,D,397362394,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,34,,3,Acceptor,Random,D,397317452,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have heard of it but I don’t know much about it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,38,,4,Available,Random,D,397362593,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,39,,3,Acceptor,Random,D,397332544,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,40,,3,Acceptor,Random,D,397317466,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,41,,3,Acceptor,Random,D,397332557,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,43,,3,Acceptor,Random,D,397317474,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,46,,3,Acceptor,Random,D,397317493,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,48,,3,Acceptor,Random,D,397317519,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,,2,Preferrer,Random,D,397332590,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,50,,3,Acceptor,Random,D,397317534,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,I have never tried this brand and am not interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,78,,5,Rejector,Random,D,397351151,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,,3,Acceptor,Random,D,397378994,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,,3,Acceptor,Random,D,397379014,Brand Love,0.38501167,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,,2,Preferrer,Random,D,397331761,Brand Love,1.53959005,1.554080309
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,104,,3,Acceptor,Random,D,397334860,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,,2,Preferrer,Random,D,397334888,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,108,,2,Preferrer,Random,D,397334902,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,,2,Preferrer,Random,D,397331897,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,,2,Preferrer,Random,D,397334921,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,,2,Preferrer,Random,D,397334935,Brand Love,1.53959005,1.554080309
+20-29 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,,2,Preferrer,Random,C2,397332006,Brand Love,0.999383015,0.928926512
+7-12 y.o.,BIM.0002-A,I have tried this brand but will not eat it again,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,114,,5,Rejector,Random,D,397332668,Brand Love,1.53959005,1.554080309
+17-19 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,118,,3,Acceptor,Random,D,397330158,Brand Love,1.53959005,1.554080309
+20-29 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,120,,3,Acceptor,Random,D,397330189,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,121,,3,Acceptor,Random,D,397330199,Brand Love,1.53959005,1.554080309
+20-29 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,122,,3,Acceptor,Random,D,397330209,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,,2,Preferrer,Random,D,397330218,Brand Love,1.53959005,1.554080309
+17-19 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,125,,3,Acceptor,Random,D,397330257,Brand Love,1.53959005,1.554080309
+20-29 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,126,,3,Acceptor,Random,D,397330273,Brand Love,1.53959005,1.554080309
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,130,,2,Preferrer,Random,D,397678418,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,134,,2,Preferrer,Random,D,397678693,Brand Love,1.53959005,1.554080309
+7-12 y.o.,BIM.0002-A,I have never tried this brand and am not interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,136,,5,Rejector,Random,D,397365515,Brand Love,1.53959005,1.554080309
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,138,,3,Acceptor,Random,D,397365434,Brand Love,1.53959005,1.554080309
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,159,,3,Acceptor,Random,D,397388915,Brand Love,1.53959005,1.554080309
+20-29 y.o.,BIM.0002-A,I have never tried this brand and am not interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,165,,5,Rejector,Random,D,397375020,Brand Love,1.53959005,1.554080309
+30-45 y.o.,BIM.0002-A,I have heard of it but I don’t know much about it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,171,,4,Available,Random,C2,397362754,Brand Love,0.999383015,0.928926512
+13-16 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,172,,2,Preferrer,Random,C2,397362765,Brand Love,0.999383015,0.928926512
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,182,,3,Acceptor,Random,C2,397358722,Brand Love,0.999383015,0.928926512
+30-45 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,201,,3,Acceptor,Boosted,D,397736600,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,202,,3,Acceptor,Boosted,D,397743642,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,,2,Preferrer,Boosted,D,397914721,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,,2,Preferrer,Boosted,D,397736617,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,205,,3,Acceptor,Boosted,D,397743664,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,206,,2,Preferrer,Boosted,D,397914723,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,,2,Preferrer,Boosted,C2,397736636,Brand Love,,0.532455942
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,208,,3,Acceptor,Boosted,D,397743685,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,,2,Preferrer,Boosted,D,397914725,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,210,,3,Acceptor,Boosted,D,397736649,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,,2,Preferrer,Boosted,D,397987527,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,,2,Preferrer,Boosted,D,397960902,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,,2,Preferrer,Boosted,D,397987540,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,,2,Preferrer,Boosted,D,397960921,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,,2,Preferrer,Boosted,D,397987763,Brand Love,,0.395278648
+17-19 y.o.,BIM.0002-A,I have heard of it but I don’t know much about it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,254,,4,Available,Boosted,C1,397920027,Brand Love,,1.847875669
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,,2,Preferrer,Boosted,C2,397942973,Brand Love,,0.532455942
+13-16 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,,3,Acceptor,Boosted,D,397919316,Brand Love,,0.395278648
+13-16 y.o.,BIM.0002-A,I have heard of it but I don’t know much about it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,257,,4,Available,Boosted,C2,397923917,Brand Love,,0.532455942
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,,2,Preferrer,Boosted,D,397943251,Brand Love,,0.395278648
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,259,,3,Acceptor,Boosted,C1,397919997,Brand Love,,1.847875669
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,,2,Preferrer,Boosted,D,397943564,Brand Love,,0.395278648
+30-45 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,,3,Acceptor,Boosted,D,397919321,Brand Love,,0.395278648
+17-19 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,262,,3,Acceptor,Boosted,AB,397919987,Brand Love,,0
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,,2,Preferrer,Boosted,D,397943971,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,,2,Preferrer,Boosted,D,397919326,Brand Love,,0.395278648
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,265,,3,Acceptor,Boosted,C1,397919947,Brand Love,,1.847875669
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,,2,Preferrer,Boosted,D,397945532,Brand Love,,0.395278648
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,,2,Preferrer,Boosted,D,397919332,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,,2,Preferrer,Boosted,D,397919337,Brand Love,,0.395278648
+30-45 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,269,,3,Acceptor,Boosted,D,397988924,Brand Love,,0.395278648
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,,2,Preferrer,Boosted,D,398009127,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,271,,3,Acceptor,Boosted,D,398044187,Brand Love,,0.395278648
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,272,,3,Acceptor,Boosted,C2,397976252,Brand Love,,0.532455942
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,273,,3,Acceptor,Boosted,D,397988932,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,274,,2,Preferrer,Boosted,D,398009146,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,275,,3,Acceptor,Boosted,D,398044213,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,276,,3,Acceptor,Boosted,D,397976185,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,277,,3,Acceptor,Boosted,D,397988941,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,,3,Acceptor,Boosted,D,398009172,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,279,,2,Preferrer,Boosted,D,398044236,Brand Love,,0.395278648
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,280,,3,Acceptor,Boosted,C2,397976144,Brand Love,,0.532455942
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,,2,Preferrer,Boosted,D,397681608,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,,2,Preferrer,Boosted,D,397681626,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,,2,Preferrer,Boosted,C2,397681652,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,,2,Preferrer,Boosted,D,397619243,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,,2,Preferrer,Boosted,D,397619265,Brand Love,,1.554080309
+30-45 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,310,,3,Acceptor,Boosted,D,397678393,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,321,,2,Preferrer,Boosted,D,397615612,Brand Love,,1.554080309
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,,2,Preferrer,Boosted,D,397649842,Brand Love,,1.554080309
+17-19 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,323,,2,Preferrer,Boosted,D,397615557,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,324,,2,Preferrer,Boosted,D,397649864,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,325,,3,Acceptor,Boosted,D,397615511,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,326,,3,Acceptor,Boosted,D,397649888,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,327,,3,Acceptor,Boosted,C2,397615313,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,328,,2,Preferrer,Boosted,D,397649902,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,329,,3,Acceptor,Boosted,D,397615249,Brand Love,,1.554080309
+20-29 y.o.,BIM.0002-A,I have heard of it but I don’t know much about it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,330,,4,Available,Boosted,C2,397649916,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,,2,Preferrer,Boosted,D,397670291,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,339,,2,Preferrer,Boosted,D,397701339,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,340,,3,Acceptor,Boosted,C2,397656484,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,,2,Preferrer,Boosted,D,397701357,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,342,,3,Acceptor,Boosted,D,397656396,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,343,,2,Preferrer,Boosted,D,397701376,Brand Love,,1.554080309
+13-16 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,,2,Preferrer,Boosted,C2,397677257,Brand Love,,0.928926512
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,,2,Preferrer,Boosted,C2,397677280,Brand Love,,0.928926512
+13-16 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,353,,2,Preferrer,Boosted,C2,397677299,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,"Not a brand I generally prefer, but I may eat it sometimes",Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,,3,Acceptor,Boosted,C2,397677311,Brand Love,,0.928926512
+13-16 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,355,,3,Acceptor,Boosted,C2,397679209,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,356,,3,Acceptor,Boosted,D,397679232,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,357,,3,Acceptor,Boosted,C2,397664054,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,358,,3,Acceptor,Boosted,D,397664090,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,359,,3,Acceptor,Boosted,C2,397977471,Brand Love,,0.928926512
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,360,,3,Acceptor,Boosted,D,397978655,Brand Love,,1.554080309
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,368,,2,Preferrer,Boosted,D,397679247,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,369,,2,Preferrer,Boosted,D,397679269,Brand Love,,1.554080309
+30-45 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,370,,3,Acceptor,Boosted,D,397679282,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,371,,3,Acceptor,Boosted,D,397679297,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,372,,2,Preferrer,Boosted,C2,397664113,Brand Love,,0.928926512
+13-16 y.o.,BIM.0002-A,This is one of the brands I prefer,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,373,,2,Preferrer,Boosted,C2,397664139,Brand Love,,0.928926512
+30-45 y.o.,BIM.0002-A,This is one of the brands I prefer,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,374,,2,Preferrer,Boosted,D,397664159,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,375,,3,Acceptor,Boosted,D,397664183,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,376,,3,Acceptor,Boosted,D,397977810,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Female,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,377,,3,Acceptor,Boosted,D,397977689,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,378,,3,Acceptor,Boosted,D,397977615,Brand Love,,1.554080309
+7-12 y.o.,BIM.0002-A,I have not tried this brand but I am interested in trying it,Male,Brand Love,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,379,,3,Acceptor,Boosted,C2,397977526,Brand Love,,0.928926512
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,,2,Ever trier of NPD product,Random,D,396980089,Ever Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,,3,P4WKs user of NPD product,Random,D,396980089,P4wks Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,,1,Aware of NPD product,Random,D,396980089,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,5,,1,Aware of NPD product,Random,D,396980169,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,21,,1,Aware of NPD product,Random,D,397317397,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,,2,Ever trier of NPD product,Random,D,397362394,Ever Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,,3,P4WKs user of NPD product,Random,D,397362394,P4wks Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,,1,Aware of NPD product,Random,D,397362394,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,34,,1,Aware of NPD product,Random,D,397317452,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,38,,1,Aware of NPD product,Random,D,397362593,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,39,,1,Aware of NPD product,Random,D,397332544,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,40,,1,Aware of NPD product,Random,D,397317466,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,41,,1,Aware of NPD product,Random,D,397332557,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,43,,1,Aware of NPD product,Random,D,397317474,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,46,,1,Aware of NPD product,Random,D,397317493,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,48,,1,Aware of NPD product,Random,D,397317519,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,,2,Ever trier of NPD product,Random,D,397332590,Ever Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,,1,Aware of NPD product,Random,D,397332590,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,50,,1,Aware of NPD product,Random,D,397317534,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,78,,1,Aware of NPD product,Random,D,397351151,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,,2,Ever trier of NPD product,Random,D,397378994,Ever Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,,1,Aware of NPD product,Random,D,397378994,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,,2,Ever trier of NPD product,Random,D,397379014,Ever Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,,1,Aware of NPD product,Random,D,397379014,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,,2,Ever trier of NPD product,Random,D,397331761,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,,3,P4WKs user of NPD product,Random,D,397331761,P4wks Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,,1,Aware of NPD product,Random,D,397331761,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,104,,1,Aware of NPD product,Random,D,397334860,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,,2,Ever trier of NPD product,Random,D,397334888,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,,1,Aware of NPD product,Random,D,397334888,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,108,,2,Ever trier of NPD product,Random,D,397334902,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,108,,1,Aware of NPD product,Random,D,397334902,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,BUMO Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,,4,BUMO user of NPD product,Random,D,397331897,BUMO Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,,2,Ever trier of NPD product,Random,D,397331897,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,,3,P4WKs user of NPD product,Random,D,397331897,P4wks Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,,1,Aware of NPD product,Random,D,397331897,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,,2,Ever trier of NPD product,Random,D,397334921,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,,1,Aware of NPD product,Random,D,397334921,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,,2,Ever trier of NPD product,Random,D,397334935,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,,3,P4WKs user of NPD product,Random,D,397334935,P4wks Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,,1,Aware of NPD product,Random,D,397334935,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,,2,Ever trier of NPD product,Random,C2,397332006,Ever Of NPD,0.999383015,0.928926512
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,,1,Aware of NPD product,Random,C2,397332006,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,114,,2,Ever trier of NPD product,Random,D,397332668,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,114,,1,Aware of NPD product,Random,D,397332668,Aware Of NPD,1.53959005,1.554080309
+17-19 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,118,,1,Aware of NPD product,Random,D,397330158,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,120,,1,Aware of NPD product,Random,D,397330189,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,121,,1,Aware of NPD product,Random,D,397330199,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,122,,1,Aware of NPD product,Random,D,397330209,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,,2,Ever trier of NPD product,Random,D,397330218,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,,3,P4WKs user of NPD product,Random,D,397330218,P4wks Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,,1,Aware of NPD product,Random,D,397330218,Aware Of NPD,1.53959005,1.554080309
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,125,,1,Aware of NPD product,Random,D,397330257,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,126,,1,Aware of NPD product,Random,D,397330273,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,130,,2,Ever trier of NPD product,Random,D,397678418,Ever Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,130,,1,Aware of NPD product,Random,D,397678418,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,134,,2,Ever trier of NPD product,Random,D,397678693,Ever Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,134,,1,Aware of NPD product,Random,D,397678693,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,136,,1,Aware of NPD product,Random,D,397365515,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,138,,1,Aware of NPD product,Random,D,397365434,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,159,,1,Aware of NPD product,Random,D,397388915,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,165,,1,Aware of NPD product,Random,D,397375020,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,171,,1,Aware of NPD product,Random,C2,397362754,Aware Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,172,,2,Ever trier of NPD product,Random,C2,397362765,Ever Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,172,,1,Aware of NPD product,Random,C2,397362765,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,182,,1,Aware of NPD product,Random,C2,397358722,Aware Of NPD,0.999383015,0.928926512
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,201,,1,Aware of NPD product,Boosted,D,397736600,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,202,,1,Aware of NPD product,Boosted,D,397743642,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,,2,Ever trier of NPD product,Boosted,D,397914721,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,,3,P4WKs user of NPD product,Boosted,D,397914721,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,,1,Aware of NPD product,Boosted,D,397914721,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,,2,Ever trier of NPD product,Boosted,D,397736617,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,,3,P4WKs user of NPD product,Boosted,D,397736617,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,,1,Aware of NPD product,Boosted,D,397736617,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,205,,1,Aware of NPD product,Boosted,D,397743664,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,206,,2,Ever trier of NPD product,Boosted,D,397914723,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,206,,1,Aware of NPD product,Boosted,D,397914723,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,,2,Ever trier of NPD product,Boosted,C2,397736636,Ever Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,,3,P4WKs user of NPD product,Boosted,C2,397736636,P4wks Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,,1,Aware of NPD product,Boosted,C2,397736636,Aware Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,208,,1,Aware of NPD product,Boosted,D,397743685,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,,2,Ever trier of NPD product,Boosted,D,397914725,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,,3,P4WKs user of NPD product,Boosted,D,397914725,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,,1,Aware of NPD product,Boosted,D,397914725,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,210,,1,Aware of NPD product,Boosted,D,397736649,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,,2,Ever trier of NPD product,Boosted,D,397987527,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,,3,P4WKs user of NPD product,Boosted,D,397987527,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,,1,Aware of NPD product,Boosted,D,397987527,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,,2,Ever trier of NPD product,Boosted,D,397960902,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,,3,P4WKs user of NPD product,Boosted,D,397960902,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,,1,Aware of NPD product,Boosted,D,397960902,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,,2,Ever trier of NPD product,Boosted,D,397987540,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,,3,P4WKs user of NPD product,Boosted,D,397987540,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,,1,Aware of NPD product,Boosted,D,397987540,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,,2,Ever trier of NPD product,Boosted,D,397960921,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,,3,P4WKs user of NPD product,Boosted,D,397960921,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,,1,Aware of NPD product,Boosted,D,397960921,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,,2,Ever trier of NPD product,Boosted,D,397987763,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,,3,P4WKs user of NPD product,Boosted,D,397987763,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,,1,Aware of NPD product,Boosted,D,397987763,Aware Of NPD,,0.395278648
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,254,,1,Aware of NPD product,Boosted,C1,397920027,Aware Of NPD,,1.847875669
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,,2,Ever trier of NPD product,Boosted,C2,397942973,Ever Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,,3,P4WKs user of NPD product,Boosted,C2,397942973,P4wks Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,,1,Aware of NPD product,Boosted,C2,397942973,Aware Of NPD,,0.532455942
+13-16 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,,2,Ever trier of NPD product,Boosted,D,397919316,Ever Of NPD,,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,,1,Aware of NPD product,Boosted,D,397919316,Aware Of NPD,,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,257,,1,Aware of NPD product,Boosted,C2,397923917,Aware Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,,2,Ever trier of NPD product,Boosted,D,397943251,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,,3,P4WKs user of NPD product,Boosted,D,397943251,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,,1,Aware of NPD product,Boosted,D,397943251,Aware Of NPD,,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,259,,1,Aware of NPD product,Boosted,C1,397919997,Aware Of NPD,,1.847875669
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,,2,Ever trier of NPD product,Boosted,D,397943564,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,,3,P4WKs user of NPD product,Boosted,D,397943564,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,,1,Aware of NPD product,Boosted,D,397943564,Aware Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,,2,Ever trier of NPD product,Boosted,D,397919321,Ever Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,,1,Aware of NPD product,Boosted,D,397919321,Aware Of NPD,,0.395278648
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,262,,1,Aware of NPD product,Boosted,AB,397919987,Aware Of NPD,,0
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,,2,Ever trier of NPD product,Boosted,D,397943971,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,,3,P4WKs user of NPD product,Boosted,D,397943971,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,,1,Aware of NPD product,Boosted,D,397943971,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,,2,Ever trier of NPD product,Boosted,D,397919326,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,,1,Aware of NPD product,Boosted,D,397919326,Aware Of NPD,,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,265,,1,Aware of NPD product,Boosted,C1,397919947,Aware Of NPD,,1.847875669
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,,2,Ever trier of NPD product,Boosted,D,397945532,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,,3,P4WKs user of NPD product,Boosted,D,397945532,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,,1,Aware of NPD product,Boosted,D,397945532,Aware Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,,2,Ever trier of NPD product,Boosted,D,397919332,Ever Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,,3,P4WKs user of NPD product,Boosted,D,397919332,P4wks Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,,1,Aware of NPD product,Boosted,D,397919332,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,,2,Ever trier of NPD product,Boosted,D,397919337,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,,3,P4WKs user of NPD product,Boosted,D,397919337,P4wks Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,,1,Aware of NPD product,Boosted,D,397919337,Aware Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,269,,1,Aware of NPD product,Boosted,D,397988924,Aware Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,,2,Ever trier of NPD product,Boosted,D,398009127,Ever Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,,3,P4WKs user of NPD product,Boosted,D,398009127,P4wks Of NPD,,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,,1,Aware of NPD product,Boosted,D,398009127,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,271,,2,Ever trier of NPD product,Boosted,D,398044187,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,271,,1,Aware of NPD product,Boosted,D,398044187,Aware Of NPD,,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,272,,1,Aware of NPD product,Boosted,C2,397976252,Aware Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,273,,1,Aware of NPD product,Boosted,D,397988932,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,274,,2,Ever trier of NPD product,Boosted,D,398009146,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,274,,1,Aware of NPD product,Boosted,D,398009146,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,275,,2,Ever trier of NPD product,Boosted,D,398044213,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,275,,1,Aware of NPD product,Boosted,D,398044213,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,276,,1,Aware of NPD product,Boosted,D,397976185,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,277,,1,Aware of NPD product,Boosted,D,397988941,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,,2,Ever trier of NPD product,Boosted,D,398009172,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,,1,Aware of NPD product,Boosted,D,398009172,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,279,,2,Ever trier of NPD product,Boosted,D,398044236,Ever Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,279,,1,Aware of NPD product,Boosted,D,398044236,Aware Of NPD,,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,280,,1,Aware of NPD product,Boosted,C2,397976144,Aware Of NPD,,0.532455942
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,,2,Ever trier of NPD product,Boosted,D,397681608,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,,3,P4WKs user of NPD product,Boosted,D,397681608,P4wks Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,,1,Aware of NPD product,Boosted,D,397681608,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,,2,Ever trier of NPD product,Boosted,D,397681626,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,,3,P4WKs user of NPD product,Boosted,D,397681626,P4wks Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,,1,Aware of NPD product,Boosted,D,397681626,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,,2,Ever trier of NPD product,Boosted,C2,397681652,Ever Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,,3,P4WKs user of NPD product,Boosted,C2,397681652,P4wks Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,,1,Aware of NPD product,Boosted,C2,397681652,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,,2,Ever trier of NPD product,Boosted,D,397619243,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,,3,P4WKs user of NPD product,Boosted,D,397619243,P4wks Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,,1,Aware of NPD product,Boosted,D,397619243,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,,2,Ever trier of NPD product,Boosted,D,397619265,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,P4wks Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,,3,P4WKs user of NPD product,Boosted,D,397619265,P4wks Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,,1,Aware of NPD product,Boosted,D,397619265,Aware Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,310,,1,Aware of NPD product,Boosted,D,397678393,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,321,,2,Ever trier of NPD product,Boosted,D,397615612,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,321,,1,Aware of NPD product,Boosted,D,397615612,Aware Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,,2,Ever trier of NPD product,Boosted,D,397649842,Ever Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,,1,Aware of NPD product,Boosted,D,397649842,Aware Of NPD,,1.554080309
+17-19 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,323,,2,Ever trier of NPD product,Boosted,D,397615557,Ever Of NPD,,1.554080309
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,323,,1,Aware of NPD product,Boosted,D,397615557,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,324,,2,Ever trier of NPD product,Boosted,D,397649864,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,324,,1,Aware of NPD product,Boosted,D,397649864,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,325,,1,Aware of NPD product,Boosted,D,397615511,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,326,,1,Aware of NPD product,Boosted,D,397649888,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,327,,1,Aware of NPD product,Boosted,C2,397615313,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,328,,2,Ever trier of NPD product,Boosted,D,397649902,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,328,,1,Aware of NPD product,Boosted,D,397649902,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,329,,1,Aware of NPD product,Boosted,D,397615249,Aware Of NPD,,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,330,,1,Aware of NPD product,Boosted,C2,397649916,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,,2,Ever trier of NPD product,Boosted,D,397670291,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,,1,Aware of NPD product,Boosted,D,397670291,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,339,,2,Ever trier of NPD product,Boosted,D,397701339,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,339,,1,Aware of NPD product,Boosted,D,397701339,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,340,,1,Aware of NPD product,Boosted,C2,397656484,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,,2,Ever trier of NPD product,Boosted,D,397701357,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,,1,Aware of NPD product,Boosted,D,397701357,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,342,,1,Aware of NPD product,Boosted,D,397656396,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,343,,2,Ever trier of NPD product,Boosted,D,397701376,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,343,,1,Aware of NPD product,Boosted,D,397701376,Aware Of NPD,,1.554080309
+13-16 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,,2,Ever trier of NPD product,Boosted,C2,397677257,Ever Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,,1,Aware of NPD product,Boosted,C2,397677257,Aware Of NPD,,0.928926512
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,,2,Ever trier of NPD product,Boosted,C2,397677280,Ever Of NPD,,0.928926512
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,,1,Aware of NPD product,Boosted,C2,397677280,Aware Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,353,,2,Ever trier of NPD product,Boosted,C2,397677299,Ever Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,353,,1,Aware of NPD product,Boosted,C2,397677299,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,,2,Ever trier of NPD product,Boosted,C2,397677311,Ever Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,,1,Aware of NPD product,Boosted,C2,397677311,Aware Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,355,,1,Aware of NPD product,Boosted,C2,397679209,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,356,,1,Aware of NPD product,Boosted,D,397679232,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,357,,1,Aware of NPD product,Boosted,C2,397664054,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,358,,1,Aware of NPD product,Boosted,D,397664090,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,359,,1,Aware of NPD product,Boosted,C2,397977471,Aware Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,360,,1,Aware of NPD product,Boosted,D,397978655,Aware Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,368,,2,Ever trier of NPD product,Boosted,D,397679247,Ever Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,368,,1,Aware of NPD product,Boosted,D,397679247,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,369,,2,Ever trier of NPD product,Boosted,D,397679269,Ever Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,369,,1,Aware of NPD product,Boosted,D,397679269,Aware Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,370,,1,Aware of NPD product,Boosted,D,397679282,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,371,,1,Aware of NPD product,Boosted,D,397679297,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,372,,2,Ever trier of NPD product,Boosted,C2,397664113,Ever Of NPD,,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,372,,1,Aware of NPD product,Boosted,C2,397664113,Aware Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Male,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,373,,2,Ever trier of NPD product,Boosted,C2,397664139,Ever Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,373,,1,Aware of NPD product,Boosted,C2,397664139,Aware Of NPD,,0.928926512
+30-45 y.o.,CON.0001,,Female,Ever Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,374,,2,Ever trier of NPD product,Boosted,D,397664159,Ever Of NPD,,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,374,,1,Aware of NPD product,Boosted,D,397664159,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,375,,1,Aware of NPD product,Boosted,D,397664183,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,376,,1,Aware of NPD product,Boosted,D,397977810,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,377,,1,Aware of NPD product,Boosted,D,397977689,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,378,,1,Aware of NPD product,Boosted,D,397977615,Aware Of NPD,,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,379,,1,Aware of NPD product,Boosted,C2,397977526,Aware Of NPD,,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,144,,0,Not aware of NPD product,Random,D,397365170,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,197,,0,Not aware of NPD product,Random,C2,397358962,Aware Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,189,,0,Not aware of NPD product,Random,D,397363126,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,28,,0,Not aware of NPD product,Random,D,397332481,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,167,,0,Not aware of NPD product,Random,D,397375719,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,66,,0,Not aware of NPD product,Random,D,397945574,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,11,,0,Not aware of NPD product,Random,D,396980109,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,45,,0,Not aware of NPD product,Random,D,397332571,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,164,,0,Not aware of NPD product,Random,C2,397375095,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,158,,0,Not aware of NPD product,Random,D,397388905,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,37,,0,Not aware of NPD product,Random,D,397362605,Aware Of NPD,0.38501167,0.395278648
+17-19 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,170,,0,Not aware of NPD product,Random,C2,397362735,Aware Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,115,,0,Not aware of NPD product,Random,D,397332882,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,88,,0,Not aware of NPD product,Random,D,397134313,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,61,,0,Not aware of NPD product,Random,C2,397945561,Aware Of NPD,0.496462417,0.532455942
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,128,,0,Not aware of NPD product,Random,D,397330332,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,58,,0,Not aware of NPD product,Random,D,397945547,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,17,,0,Not aware of NPD product,Random,C2,396980155,Aware Of NPD,0.496462417,0.532455942
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,99,,0,Not aware of NPD product,Random,D,397379093,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,100,,0,Not aware of NPD product,Random,D,397378980,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,178,,0,Not aware of NPD product,Random,D,397362853,Aware Of NPD,1.53959005,1.554080309
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,160,,0,Not aware of NPD product,Random,D,397388919,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,87,,0,Not aware of NPD product,Random,D,397134302,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,70,,0,Not aware of NPD product,Random,C2,397063263,Aware Of NPD,0.496462417,0.532455942
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,131,,0,Not aware of NPD product,Random,D,397678534,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,153,,0,Not aware of NPD product,Random,C2,397388829,Aware Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,32,,0,Not aware of NPD product,Random,D,397362560,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,188,,0,Not aware of NPD product,Random,C2,397363114,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,89,,0,Not aware of NPD product,Random,D,397134324,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,135,,0,Not aware of NPD product,Random,D,397365582,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,80,,0,Not aware of NPD product,Random,D,397351091,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,102,,0,Not aware of NPD product,Random,D,397334831,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,4,,0,Not aware of NPD product,Random,D,397027214,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,51,,0,Not aware of NPD product,Random,D,397223974,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,116,,0,Not aware of NPD product,Random,D,397332890,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,53,,0,Not aware of NPD product,Random,D,397223979,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,7,,0,Not aware of NPD product,Random,D,397027238,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,98,,0,Not aware of NPD product,Random,D,397379084,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,83,,0,Not aware of NPD product,Random,D,397350991,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,137,,0,Not aware of NPD product,Random,D,397365469,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,47,,0,Not aware of NPD product,Random,D,397362650,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,68,,0,Not aware of NPD product,Random,C2,397063423,Aware Of NPD,0.496462417,0.532455942
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,191,,0,Not aware of NPD product,Random,D,397363152,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,193,,0,Not aware of NPD product,Random,C1,397363415,Aware Of NPD,9.104379263,13.01926235
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,19,,0,Not aware of NPD product,Random,D,397027173,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,12,,0,Not aware of NPD product,Random,D,397362139,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,190,,0,Not aware of NPD product,Random,D,397363136,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,132,,0,Not aware of NPD product,Random,D,397619287,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,94,,0,Not aware of NPD product,Random,D,397379038,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,175,,0,Not aware of NPD product,Random,C2,397362805,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,127,,0,Not aware of NPD product,Random,D,397330300,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,105,,0,Not aware of NPD product,Random,C2,397331791,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,199,,0,Not aware of NPD product,Random,C2,397359001,Aware Of NPD,0.999383015,0.928926512
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,56,,0,Not aware of NPD product,Random,C2,397223986,Aware Of NPD,0.496462417,0.532455942
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,18,,0,Not aware of NPD product,Random,D,397362178,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,30,,0,Not aware of NPD product,Random,D,397317435,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,54,,0,Not aware of NPD product,Random,D,397223981,Aware Of NPD,0.38501167,0.395278648
+17-19 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,85,,0,Not aware of NPD product,Random,D,397134281,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,13,,0,Not aware of NPD product,Random,D,397027136,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,187,,0,Not aware of NPD product,Random,C2,397363101,Aware Of NPD,0.999383015,0.928926512
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,9,,0,Not aware of NPD product,Random,C2,397362676,Aware Of NPD,0.496462417,0.532455942
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,157,,0,Not aware of NPD product,Random,D,397388897,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,31,,0,Not aware of NPD product,Random,D,397332501,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,143,,0,Not aware of NPD product,Random,C2,397365199,Aware Of NPD,0.999383015,0.928926512
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,52,,0,Not aware of NPD product,Random,D,397223976,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,200,,0,Not aware of NPD product,Random,C2,397359018,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,166,,0,Not aware of NPD product,Random,D,397375005,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,140,,0,Not aware of NPD product,Random,D,397365366,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,139,,0,Not aware of NPD product,Random,D,397365381,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,14,,0,Not aware of NPD product,Random,D,396980136,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,79,,0,Not aware of NPD product,Random,D,397351119,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,169,,0,Not aware of NPD product,Random,C2,397362721,Aware Of NPD,0.999383015,0.928926512
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,129,,0,Not aware of NPD product,Random,D,397329769,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,20,,0,Not aware of NPD product,Random,D,397362190,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,176,,0,Not aware of NPD product,Random,D,397362831,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,181,,0,Not aware of NPD product,Random,C2,397358675,Aware Of NPD,0.999383015,0.928926512
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,16,,0,Not aware of NPD product,Random,D,397027153,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,82,,0,Not aware of NPD product,Random,C2,397351025,Aware Of NPD,0.496462417,0.532455942
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,142,,0,Not aware of NPD product,Random,D,397365310,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,111,,0,Not aware of NPD product,Random,D,397331935,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,124,,0,Not aware of NPD product,Random,C2,397330235,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,84,,0,Not aware of NPD product,Random,D,397134271,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,161,,0,Not aware of NPD product,Random,D,397388928,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,65,,0,Not aware of NPD product,Random,D,397945566,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,75,,0,Not aware of NPD product,Random,D,397351259,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,90,,0,Not aware of NPD product,Random,D,397134337,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,93,,0,Not aware of NPD product,Random,C2,397379027,Aware Of NPD,0.496462417,0.532455942
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,103,,0,Not aware of NPD product,Random,D,397331778,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,184,,0,Not aware of NPD product,Random,D,397358834,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,168,,0,Not aware of NPD product,Random,C2,397362706,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,147,,0,Not aware of NPD product,Random,C2,397375736,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,71,,0,Not aware of NPD product,Random,D,397063223,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,150,,0,Not aware of NPD product,Random,D,397375663,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,179,,0,Not aware of NPD product,Random,D,397358602,Aware Of NPD,1.53959005,1.554080309
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,194,,0,Not aware of NPD product,Random,C2,397363433,Aware Of NPD,0.999383015,0.928926512
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,119,,0,Not aware of NPD product,Random,D,397330171,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,23,,0,Not aware of NPD product,Random,D,397362384,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,146,,0,Not aware of NPD product,Random,D,397375759,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,186,,0,Not aware of NPD product,Random,D,397363090,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,22,,0,Not aware of NPD product,Random,D,397332454,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,177,,0,Not aware of NPD product,Random,C2,397362843,Aware Of NPD,0.999383015,0.928926512
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,63,,0,Not aware of NPD product,Random,C2,397938398,Aware Of NPD,0.496462417,0.532455942
+17-19 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,2,,0,Not aware of NPD product,Random,D,397027196,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,69,,0,Not aware of NPD product,Random,C2,397063335,Aware Of NPD,0.496462417,0.532455942
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,60,,0,Not aware of NPD product,Random,D,397945558,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,59,,0,Not aware of NPD product,Random,D,397945553,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,173,,0,Not aware of NPD product,Random,C2,397362777,Aware Of NPD,0.999383015,0.928926512
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,74,,0,Not aware of NPD product,Random,D,397351279,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,185,,0,Not aware of NPD product,Random,D,397363064,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,107,,0,Not aware of NPD product,Random,D,397331816,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,27,,0,Not aware of NPD product,Random,D,397317418,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,81,,0,Not aware of NPD product,Random,D,397351054,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,72,,0,Not aware of NPD product,Random,D,397062336,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,192,,0,Not aware of NPD product,Random,C1,397363382,Aware Of NPD,9.104379263,13.01926235
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,141,,0,Not aware of NPD product,Random,D,397365334,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,162,,0,Not aware of NPD product,Random,D,397375087,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,195,,0,Not aware of NPD product,Random,D,397363447,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,36,,0,Not aware of NPD product,Random,D,397362572,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,145,,0,Not aware of NPD product,Random,D,397365118,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,35,,0,Not aware of NPD product,Random,D,397332532,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,95,,0,Not aware of NPD product,Random,D,397379053,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,198,,0,Not aware of NPD product,Random,D,397358984,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,180,,0,Not aware of NPD product,Random,D,397358637,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,33,,0,Not aware of NPD product,Random,D,397332516,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,42,,0,Not aware of NPD product,Random,D,397362617,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,96,,0,Not aware of NPD product,Random,D,397379060,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,183,,0,Not aware of NPD product,Random,D,397358783,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,154,,0,Not aware of NPD product,Random,D,397388847,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,24,,0,Not aware of NPD product,Random,D,397317406,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,64,,0,Not aware of NPD product,Random,C2,397938442,Aware Of NPD,0.496462417,0.532455942
+17-19 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,196,,0,Not aware of NPD product,Random,D,397358923,Aware Of NPD,1.53959005,1.554080309
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,26,,0,Not aware of NPD product,Random,D,397362390,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,15,,0,Not aware of NPD product,Random,D,397362152,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,10,,0,Not aware of NPD product,Random,D,397027127,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,55,,0,Not aware of NPD product,Random,D,397223984,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,174,,0,Not aware of NPD product,Random,C2,397362788,Aware Of NPD,0.999383015,0.928926512
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,133,,0,Not aware of NPD product,Random,D,397678662,Aware Of NPD,1.53959005,1.554080309
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,8,,0,Not aware of NPD product,Random,D,396980188,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,151,,0,Not aware of NPD product,Random,D,397388805,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,163,,0,Not aware of NPD product,Random,D,397375076,Aware Of NPD,1.53959005,1.554080309
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,155,,0,Not aware of NPD product,Random,D,397388862,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,76,,0,Not aware of NPD product,Random,D,397351216,Aware Of NPD,0.38501167,0.395278648
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,67,,0,Not aware of NPD product,Random,C2,397063504,Aware Of NPD,0.496462417,0.532455942
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,6,,0,Not aware of NPD product,Random,C1,397362662,Aware Of NPD,5.168882989,1.847875669
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,73,,0,Not aware of NPD product,Random,C2,397062300,Aware Of NPD,0.496462417,0.532455942
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,62,,0,Not aware of NPD product,Random,D,397938395,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,148,,0,Not aware of NPD product,Random,C2,397375689,Aware Of NPD,0.999383015,0.928926512
+13-16 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,117,,0,Not aware of NPD product,Random,D,397332905,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,156,,0,Not aware of NPD product,Random,C2,397388879,Aware Of NPD,0.999383015,0.928926512
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,149,,0,Not aware of NPD product,Random,D,397375115,Aware Of NPD,1.53959005,1.554080309
+20-29 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,3,,0,Not aware of NPD product,Random,C2,397362491,Aware Of NPD,0.496462417,0.532455942
+20-29 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,57,,0,Not aware of NPD product,Random,D,397945540,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,44,,0,Not aware of NPD product,Random,D,397362631,Aware Of NPD,0.38501167,0.395278648
+13-16 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,25,,0,Not aware of NPD product,Random,D,397332469,Aware Of NPD,0.38501167,0.395278648
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,77,,0,Not aware of NPD product,Random,C2,397351177,Aware Of NPD,0.496462417,0.532455942
+17-19 y.o.,CON.0001,,Male,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,152,,0,Not aware of NPD product,Random,D,397388816,Aware Of NPD,1.53959005,1.554080309
+30-45 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,97,,0,Not aware of NPD product,Random,D,397379071,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,CON.0001,,Female,Aware Of NPD,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,86,,0,Not aware of NPD product,Random,D,397134292,Aware Of NPD,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,SWEETNESS-NET,11201,Mukang matamis yung flavor,Random,D,396980089,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,1,FLAVOR-NET,10602,Gusto ko yung mga fruit flavor,Random,D,396980089,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,COLOR OF PRODUCT-NET,29903,Makulay tignan / Makulay ang ice cream,Random,D,397362394,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,TASTINESS-NET,10001,Mukhang masarap,Random,D,397362394,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,29,SWEETNESS-NET,11206,Mukhang matamis,Random,D,397362394,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,SHARED-NET,46701,Binigay kasi sa akin kaya nakain,Random,D,397332590,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,FLAVOR-NET,10603,Mukhang masarap ang flavor,Random,D,397332590,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,49,PACKAGING-NET,32301,Maganda ang balot / Maganda po ang lalagyan / Attractive ang balot,Random,D,397332590,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397378994,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Random,D,397378994,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,91,HEALTH & NUTRITION-NET,49406,Mukhang healthy kainin,Random,D,397378994,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397379014,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,VALUE FOR MONEY-NET,35201,Sulit sa presyo,Random,D,397379014,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,92,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Random,D,397379014,NPD Trial Reasons,0.38501167,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,BRAND NAME-NET,59101,Frootes ang pangalan / Frootees ang pangalan ng ice cream,Random,D,397331761,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,101,FLAVOR-NET,10605,Fruit flavor,Random,D,397331761,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,COLOR OF PRODUCT-NET,29917,Mukhang malasa ang flavor kasi makulay,Random,D,397334888,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,SWEETNESS-NET,11204,Mukhang matamis fruit ang flavor,Random,D,397334888,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,106,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397334888,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,108,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Random,D,397334902,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,108,SIZE-NET,27103,Malaki / Malaki ang ice cream,Random,D,397334902,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,PROMO-NET,63603,May nagpa freetaste sa  school / Magkaroon ng sampling sa school / Libre sa school,Random,D,397331897,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Random,D,397331897,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397331897,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,FLAVOR-NET,10603,Mukhang masarap ang flavor,Random,D,397331897,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,109,SWEETNESS-NET,11207,Matamis,Random,D,397331897,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,PRICE/AFFORDABILITY-NET,34701,Mura,Random,D,397334921,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,SIZE-NET,27103,Malaki / Malaki ang ice cream,Random,D,397334921,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,110,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397334921,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,COLOR OF PRODUCT-NET,29907,Mukhang masarap kasi color fruit,Random,D,397334935,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,112,SIZE-NET,27103,Malaki / Malaki ang ice cream,Random,D,397334935,NPD Trial Reasons,1.53959005,1.554080309
+20-29 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,FLAVOR-NET,10603,Mukhang masarap ang flavor,Random,C2,397332006,NPD Trial Reasons,0.999383015,0.928926512
+20-29 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,COLOR OF PACKAGING-NET,32908,Maganda ang balot kasi makulay / Maganda ang balot colorful,Random,C2,397332006,NPD Trial Reasons,0.999383015,0.928926512
+20-29 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,BRAND IMAGE-NET,48202,Kilala ang pangalan / Kilala ang brand / Kilalang brand kasi Frootees,Random,C2,397332006,NPD Trial Reasons,0.999383015,0.928926512
+20-29 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,113,PRICE/AFFORDABILITY-NET,34701,Mura,Random,C2,397332006,NPD Trial Reasons,0.999383015,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,114,COLOR OF PRODUCT-NET,29902,Matingkad ang kulay ng ice cream,Random,D,397332668,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,114,PROMO-NET,63603,May nagpa freetaste sa  school / Magkaroon ng sampling sa school / Libre sa school,Random,D,397332668,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,COLOR OF PRODUCT-NET,29901,Makulay ang flavor,Random,D,397330218,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,PRICE/AFFORDABILITY-NET,34701,Mura,Random,D,397330218,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,AVAILABILITY-NET,36414,Malapit lang ang bilihan / Malapit lang ang bilihan ng ice cream,Random,D,397330218,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,123,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Random,D,397330218,NPD Trial Reasons,1.53959005,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,130,FLAVOR-NET,10616,Masarap kasi prutas ang flavor / Malasang fruit flavor,Random,D,397678418,NPD Trial Reasons,1.53959005,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,130,PRICE/AFFORDABILITY-NET,34701,Mura,Random,D,397678418,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,134,COLOR OF PRODUCT-NET,29913,Mukhang malasa yung flavor kasi kulay fruit ang ice cream,Random,D,397678693,NPD Trial Reasons,1.53959005,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,134,PRICE/AFFORDABILITY-NET,34701,Mura,Random,D,397678693,NPD Trial Reasons,1.53959005,1.554080309
+13-16 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,172,PROMO-NET,63601,Free taste / Libreng tikim / Sampling / Product test / Nagpa freetaste /,Random,C2,397362765,NPD Trial Reasons,0.999383015,0.928926512
+13-16 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,172,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Random,C2,397362765,NPD Trial Reasons,0.999383015,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397914721,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,SWEETNESS-NET,11206,Mukhang matamis,Boosted,D,397914721,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,203,PROMO-NET,63613,Libre lang / Free,Boosted,D,397914721,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,D,397736617,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,204,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397736617,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,206,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397914723,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,206,HEALTH & NUTRITION-NET,49404,Mukhang may vitamins / Mukhang may vitamins na kasama kasi Frootees ang tatak,Boosted,D,397914723,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,COLOR OF PACKAGING-NET,32902,Maganda kulay ng balot,Boosted,C2,397736636,NPD Trial Reasons,,0.532455942
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,C2,397736636,NPD Trial Reasons,,0.532455942
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,207,CLOYING-NET,13602,Hindi nakakasawang kainin,Boosted,C2,397736636,NPD Trial Reasons,,0.532455942
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,COLOR OF PRODUCT-NET,29902,Matingkad ang kulay ng ice cream,Boosted,D,397914725,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397914725,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,209,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,397914725,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,SWEETNESS-NET,11206,Mukhang matamis,Boosted,D,397987527,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,211,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397987527,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,D,397960902,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,212,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397960902,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397987540,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,SWEETNESS-NET,11206,Mukhang matamis,Boosted,D,397987540,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,213,HEALTH & NUTRITION-NET,49404,Mukhang may vitamins / Mukhang may vitamins na kasama kasi Frootees ang tatak,Boosted,D,397987540,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,COLOR OF PACKAGING-NET,32902,Maganda kulay ng balot,Boosted,D,397960921,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397960921,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,214,FLAVOR-NET,10604,Malasa ang grapes na flavor,Boosted,D,397960921,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,FLAVOR-NET,10603,Mukhang masarap ang flavor,Boosted,D,397987763,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,215,HEALTH & NUTRITION-NET,49404,Mukhang may vitamins / Mukhang may vitamins na kasama kasi Frootees ang tatak,Boosted,D,397987763,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,FLAVOR-NET,10618,Nakakatakam ang flavor na watermelon,Boosted,C2,397942973,NPD Trial Reasons,,0.532455942
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,255,COLOR OF PRODUCT-NET,29914,Maganda din po ang kulay niya na pulang pula,Boosted,C2,397942973,NPD Trial Reasons,,0.532455942
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Boosted,D,397919316,NPD Trial Reasons,,0.395278648
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,397919316,NPD Trial Reasons,,0.395278648
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,256,SIZE-NET,27105,Mukhang malaki,Boosted,D,397919316,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,BRAND IMAGE-NET,48201,Bago sa paningin,Boosted,D,397943251,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,258,BRAND IMAGE-NET,48202,Kilala ang pangalan / Kilala ang brand / Kilalang brand kasi Frootees,Boosted,D,397943251,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,SHARED-NET,46702,Mga classmate / Pinatikim ako ng classmate / Natikman sa classmate kasi nilibre ako,Boosted,D,397943564,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,260,FLAVOR-NET,10605,Fruit flavor,Boosted,D,397943564,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397919321,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,COLOR OF PACKAGING-NET,32905,Attractive ang kulay ng balot,Boosted,D,397919321,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,261,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,D,397919321,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,COLOR OF PACKAGING-NET,32908,Maganda ang balot kasi makulay / Maganda ang balot colorful,Boosted,D,397943971,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,SIZE-NET,27103,Malaki / Malaki ang ice cream,Boosted,D,397943971,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,263,HEALTH & NUTRITION-NET,49408,May vitamins kasi Frootees ang may gawa,Boosted,D,397943971,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,D,397919326,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,COLOR OF PACKAGING-NET,32906,Mukhang masarap dahil makulay ang balot,Boosted,D,397919326,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,264,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397919326,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,PRODUCT FORMAT-NET,80201,Frootees po siya na katulad ng biscuit ito naman ay ice cream format lang / Frootees na biscuit siya na ginawang icecream naman,Boosted,D,397945532,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,266,BRAND IMAGE-NET,48201,Bago sa paningin,Boosted,D,397945532,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,397919332,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,267,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397919332,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,397919337,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397919337,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,268,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Boosted,D,397919337,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,398009127,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,FLAVOR-NET,10616,Masarap kasi prutas ang flavor / Malasang fruit flavor,Boosted,D,398009127,NPD Trial Reasons,,0.395278648
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,270,BRAND IMAGE-NET,48202,Kilala ang pangalan / Kilala ang brand / Kilalang brand kasi Frootees,Boosted,D,398009127,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,271,COLOR OF PACKAGING-NET,32904,Naakit sa balot na pula kasi buhay tignan,Boosted,D,398044187,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,274,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,398009146,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,274,COLOR OF PACKAGING-NET,32906,Mukhang masarap dahil makulay ang balot,Boosted,D,398009146,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,275,TASTINESS-NET,10004,Frootees siya na ice cream na curious ako sa lasa,Boosted,D,398044213,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Boosted,D,398009172,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,398009172,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,278,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,398009172,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,279,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Boosted,D,398044236,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,279,COLOR OF PACKAGING-NET,32909,Masaya tingnan ang kulay na pula at violet,Boosted,D,398044236,NPD Trial Reasons,,0.395278648
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,PROMO-NET,63603,May nagpa freetaste sa  school / Magkaroon ng sampling sa school / Libre sa school,Boosted,D,397681608,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,DESIGN OF PACKAGING -NET,33502,Maganda ang drawing ng balot / Maganda ang design ng balot,Boosted,D,397681608,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,291,BRAND NAME-NET,59101,Frootes ang pangalan / Frootees ang pangalan ng ice cream,Boosted,D,397681608,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,FONT-NET,34102,Malaki ang sulat ng pangalan na Frootees Ice Cream / Malaki ang sulat,Boosted,D,397681626,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,FLAVOR-NET,10603,Mukhang masarap ang flavor,Boosted,D,397681626,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,292,SIZE-NET,27103,Malaki / Malaki ang ice cream,Boosted,D,397681626,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,COLOR OF PACKAGING-NET,32908,Maganda ang balot kasi makulay / Maganda ang balot colorful,Boosted,C2,397681652,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,SIZE-NET,27103,Malaki / Malaki ang ice cream,Boosted,C2,397681652,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,293,BRAND IMAGE-NET,48202,Kilala ang pangalan / Kilala ang brand / Kilalang brand kasi Frootees,Boosted,C2,397681652,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,FLAVOR-NET,10601,Malasa ang flavor,Boosted,D,397619243,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397619243,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,308,COLOR OF PACKAGING-NET,32902,Maganda kulay ng balot,Boosted,D,397619243,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,FLAVOR-NET,10603,Mukhang masarap ang flavor,Boosted,D,397619265,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,COLOR OF PACKAGING-NET,32902,Maganda kulay ng balot,Boosted,D,397619265,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,FLAVOR-NET,10605,Fruit flavor,Boosted,D,397619265,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,COLOR OF PACKAGING-NET,32901,Makulay yung balot ng produkto / Makulay ang balot / Colorful ang packaging tignan,Boosted,D,397619265,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,309,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,D,397619265,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,321,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,D,397615612,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,321,SWEETNESS-NET,11205,Mukhang tama ang tamis,Boosted,D,397615612,NPD Trial Reasons,,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,COLOR OF PRODUCT-NET,29904,Maganda ang color ng ice cream matingkad na masarap tingnan,Boosted,D,397649842,NPD Trial Reasons,,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397649842,NPD Trial Reasons,,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,322,VALUE FOR MONEY-NET,35202,Sulit kasi malaki,Boosted,D,397649842,NPD Trial Reasons,,1.554080309
+17-19 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,323,SIZE-NET,27103,Malaki / Malaki ang ice cream,Boosted,D,397615557,NPD Trial Reasons,,1.554080309
+17-19 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,323,PRICE/AFFORDABILITY-NET,34704,Sakto lang ang presyo na 12.00 / Tama ang presyo sa 12.00,Boosted,D,397615557,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,324,FLAVOR-NET,10616,Masarap kasi prutas ang flavor / Malasang fruit flavor,Boosted,D,397649864,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,324,COLOR OF PACKAGING-NET,32908,Maganda ang balot kasi makulay / Maganda ang balot colorful,Boosted,D,397649864,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,328,FLAVOR-NET,10616,Masarap kasi prutas ang flavor / Malasang fruit flavor,Boosted,D,397649902,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,328,SWEETNESS-NET,11206,Mukhang matamis,Boosted,D,397649902,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,PROMO-NET,63603,May nagpa freetaste sa  school / Magkaroon ng sampling sa school / Libre sa school,Boosted,D,397670291,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,PRICE/AFFORDABILITY-NET,34705,Mura lang sa canteen,Boosted,D,397670291,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,331,FLAVOR-NET,10616,Masarap kasi prutas ang flavor / Malasang fruit flavor,Boosted,D,397670291,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,339,FLAVOR-NET,10601,Malasa ang flavor,Boosted,D,397701339,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,FLAVOR-NET,10601,Malasa ang flavor,Boosted,D,397701357,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,D,397701357,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,PRICE/AFFORDABILITY-NET,34706,Tama sa price,Boosted,D,397701357,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,341,SWEETNESS-NET,11203,Tamang tamis / Tama ang tamis,Boosted,D,397701357,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,343,FLAVOR-NET,10601,Malasa ang flavor,Boosted,D,397701376,NPD Trial Reasons,,1.554080309
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,FLAVOR-NET,10614,Mukhang masarap kasi  fruit flavor / Mukhang malasang fruit flavor / Mukhang prutas na prutas ang lasa,Boosted,C2,397677257,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,MOUTHFEEL-NET,17801,Parang pino kainin / Parang pino ang ice cream,Boosted,C2,397677257,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,COMBINATION-NET,12402,Mukhang tama sa tamis at asim,Boosted,C2,397677257,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,351,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,C2,397677257,NPD Trial Reasons,,0.928926512
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,TASTINESS-NET,10001,Mukhang masarap,Boosted,C2,397677280,NPD Trial Reasons,,0.928926512
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,COLOR OF PRODUCT-NET,29911,Kulay fruits,Boosted,C2,397677280,NPD Trial Reasons,,0.928926512
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,352,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,C2,397677280,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,353,TASTINESS-NET,10001,Mukhang masarap,Boosted,C2,397677299,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,353,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,C2,397677299,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,TASTINESS-NET,10001,Mukhang masarap,Boosted,C2,397677311,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,COLOR OF PRODUCT-NET,29912,Tama ang tamis tignan ang kulay,Boosted,C2,397677311,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,354,SIZE-NET,27101,Tama sa laki / Tama kasi ang size ng ice cream,Boosted,C2,397677311,NPD Trial Reasons,,0.928926512
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,368,COLOR OF PRODUCT-NET,29905,Maganda kasi ang kulay ng produkto,Boosted,D,397679247,NPD Trial Reasons,,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,368,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397679247,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,369,PRICE/AFFORDABILITY-NET,34701,Mura,Boosted,D,397679269,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,369,FONT-NET,34103,Masarap yung flavor na nakalagay sa packaging kasi fruity flavor,Boosted,D,397679269,NPD Trial Reasons,,1.554080309
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,372,BRAND IMAGE-NET,48201,Bago sa paningin,Boosted,C2,397664113,NPD Trial Reasons,,0.928926512
+7-12 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,372,FLAVOR-NET,10605,Fruit flavor,Boosted,C2,397664113,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,373,FLAVOR-NET,10609,Bago ang flavor / Bagong flavor sa Creamline,Boosted,C2,397664139,NPD Trial Reasons,,0.928926512
+13-16 y.o.,PRD.0002,,Male,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,373,TASTINESS-NET,10001,Mukhang masarap,Boosted,C2,397664139,NPD Trial Reasons,,0.928926512
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,374,TASTINESS-NET,10001,Mukhang masarap,Boosted,D,397664159,NPD Trial Reasons,,1.554080309
+30-45 y.o.,PRD.0002,,Female,NPD Trial Reasons,FVL3,FVL3,24-SFIM-C-CS-019,CALCITE,374,MOUTHFEEL-NET,17801,Parang pino kainin / Parang pino ang ice cream,Boosted,D,397664159,NPD Trial Reasons,,1.554080309
